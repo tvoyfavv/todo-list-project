@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"text": "Изучить React Hooks",
+		"completed": true
+	},
+	{
+		"id": 2,
+		"text": "Сделать рефакторинг кода",
+		"completed": true
+	},
+	{
+		"id": 3,
+		"text": "Использовать JS-файл как БД",
+		"completed": true
+	},
+	{
+		"id": 4,
+		"text": "Написать тесты",
+		"completed": false
+	}
+]

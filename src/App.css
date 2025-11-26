@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 40px;
+  width: 100%;
+}
+
+.todo-app-container {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #f4f4f4; 
+  border-radius: 16px;    
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.todo-app-container__title {
+  text-align: center;
+  color: #1a1a1a; 
+  margin-bottom: 30px;
+  font-size: 3.5em; 
+  font-weight: bold;
+}
